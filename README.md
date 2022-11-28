@@ -1,4 +1,4 @@
-### Olá eu sou o Pedro Gulinelli 
+### Olá eu sou o Pedro Gulinelli, desenvovedor Backend com js/ts 
 
 - 🔭 Estou atualmente trabalhando em projetos pessoais com Laravel, Node.js, Vue.js e Html/css/js
 - 🌱 Estou recentemente estudando Node.js, Vue.js e Typescript
