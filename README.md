@@ -2,7 +2,7 @@
 
 > 🔭 Estou atualmente trabalhando em projetos pessoais com Node.js, Vue.js e Html/css/js
 
-> 🌱 Estou recentemente estudando Nest.js, Vue.js, Typescript e Rust
+> 🌱 Estou recentemente estudando Nest.js, Python, Typescript e Rust
 
 <div align="center">
   <a href="https://github.com/Peviii">
