@@ -4,7 +4,7 @@
 
 > 🌱 Estou recentemente estudando Python, Js/Ts e Rust
 
-> :sweat_smile: Estou recentemente brincando com outras tecnologias(ou pelo menos estou tentando :joy:)
+> :sweat_smile: Estou recentemente brincando com outras linguagens e tecnologias(ou pelo menos estou tentando :joy:)
 
 <div align="center">
   <a href="https://github.com/Peviii">
