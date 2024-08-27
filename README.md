@@ -1,10 +1,10 @@
-### Olá eu sou o Pedro Gulinelli, desenvovedor Backend com js/ts. 
+### Olá eu sou o Pedro Gulinelli, desenvovedor de software. 
 
-> 🔭 Estou atualmente trabalhando em projetos pessoais com Node.js, Python/Django e Html/css/js
+> 🔭 Estou atualmente trabalhando com Python/Django/Flet
 
-> 🌱 Estou recentemente estudando Nest.js, Python, Typescript e Rust
+> 🌱 Estou recentemente estudando Python, Js/Ts e Rust
 
-> :sweat_smile: Estou recentemente brincando com Deno.js(ou pelo menos estou tentando :joy:)
+> :sweat_smile: Estou recentemente brincando com outras tecnologias(ou pelo menos estou tentando :joy:)
 
 <div align="center">
   <a href="https://github.com/Peviii">
